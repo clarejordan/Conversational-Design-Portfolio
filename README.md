@@ -37,7 +37,7 @@ A sample of how I’d structure an empathetic, evidence-based chatbot conversati
 ---
 
 ## ✍️ Writing Samples
-- [Sanvello Blog Contribution – Example Post](#) (add link if available)  
+- [Sanvello Blog Contribution – Example Post](#) (must have UHC as insruance to login and view)  
 - Published essay: *The Need for Cyberbullying Education* (American Counseling Association).  
 
 ---
