@@ -1,10 +1,10 @@
 # Therapist Matching Intake Assistant
 
 ## Overview
-A step-by-step intake conversation that replaces long forms with a friendly chat. Goal: reduce drop-off, capture preferences, and improve match quality.
+A guided intake conversation that reduces drop-off, captures client preferences, and improves therapist matching.
 
 ## Problem
-New clients often feel anxious when completing long forms. Important details about their goals or preferences may be missed, which can lead to poor matches and reschedules.
+Long intake forms can feel overwhelming. Clients may skip important details about goals or preferences, which can lead to weaker matches and rescheduling.
 
 ## Flow Diagram
 ```mermaid
@@ -20,20 +20,20 @@ flowchart TD
 ```
 
 ## Example Dialog
-**Bot:** Hi, I will ask a few short questions to help match you with a therapist. You can skip anything. Ready?  
+**Assistant:** Hi, I will ask a few short questions to help match you with a therapist. You can skip anything. Ready?  
 **User:** Yes.  
-**Bot:** What brings you to therapy?  
+**Assistant:** What brings you to therapy?  
 **User:** Anxiety at work.  
-**Bot:** Thanks. What would you like therapy to help with? (options)  
+**Assistant:** Thank you. What would you like therapy to help with?  
 **User:** Reducing anxiety and sleep.  
-**Bot:** Got it. Any therapist preferences?  
+**Assistant:** Got it. Do you have any therapist preferences?  
 **User:** Someone direct and practical.  
-**Bot:** Thanks. Do you prefer virtual, in-person, or either?  
+**Assistant:** Thank you. Do you prefer virtual, in-person, or either?  
 **User:** Virtual.  
-**Bot:** When are you usually available?  
+**Assistant:** When are you usually available?  
 **User:** Evenings.  
-**Bot:** Will you use insurance or self-pay?  
+**Assistant:** Will you use insurance or self-pay?  
 **User:** Insurance.  
-**Bot:** Great, here is your summary. Looks good?  
+**Assistant:** Great. Here is your summary. Does this look correct?  
 **User:** Yes.  
-**Bot:** Perfect. Let’s find your therapist match.
+**Assistant:** Perfect. I will find your therapist match.
