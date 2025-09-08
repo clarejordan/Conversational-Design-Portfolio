@@ -1,19 +1,10 @@
 # Therapist Matching Intake Assistant
 
 ## Overview
-A friendly, stepwise intake that replaces cold forms with a short conversation. Goal: reduce drop-off, capture key preferences, and improve initial match quality.
+A friendly, stepwise intake that replaces cold forms with a short conversation. Goal: reduce drop-off, capture preferences, and improve initial match quality.
 
 ## Problem
-New clients often feel anxious and overwhelmed by long forms. Important nuances about goals, scheduling, modality, or preferences get skipped or rushed, leading to poorer matches and rescheduling.
-
-## Users & Goals
-- **New client** wants to feel understood and get matched quickly.
-- **Provider ops** wants clean, structured data to route accurately.
-
-## Constraints
-- Respect privacy, collect the minimum necessary.
-- Offer “skip” or “prefer not to say” for sensitive items.
-- Never give clinical advice; this is intake only.
+New clients often feel anxious filling forms. Key details get missed, leading to poor matches and reschedules.
 
 ## Flow Diagram
 ```mermaid
@@ -27,3 +18,22 @@ flowchart TD
   G --> H[Confirm]
   H --> I[Match summary]
 ```
+
+## Example Dialog
+**Bot:** Hi, I’ll ask a few short questions to help match you with a therapist. You can skip anything. Ready?  
+**User:** Yes.  
+**Bot:** What brings you to therapy?  
+**User:** Anxiety at work.  
+**Bot:** Thanks. What would you like therapy to help with? (options)  
+**User:** Reducing anxiety and sleep.  
+**Bot:** Got it. Any therapist preferences?  
+**User:** Someone direct and practical.  
+**Bot:** Thanks. Do you prefer virtual, in-person, or either?  
+**User:** Virtual.  
+**Bot:** When are you usually available?  
+**User:** Evenings.  
+**Bot:** Will you use insurance or self-pay?  
+**User:** Insurance.  
+**Bot:** Great — here’s your summary. Looks good?  
+**User:** Yes.  
+**Bot:** Perfect. Let’s find your therapist match.
