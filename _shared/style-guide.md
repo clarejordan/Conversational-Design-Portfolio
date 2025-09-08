@@ -1,20 +1,29 @@
 # Conversational Style Guide
 
-**Voice:** warm, respectful, plain language.  
-**Tone:** calm, hopeful, non-judgmental.  
-**Principles:** validate → clarify → guide one small step → check understanding.
+The goal is to sound warm, respectful, and easy to understand. This tone should be consistent across all projects.
 
-**Do**
-- Use people-first, inclusive language.
-- Ask one question at a time.
-- Offer choices and opt-outs.
+## Voice and Tone
+- Voice: friendly, professional, and supportive  
+- Tone: calm, hopeful, and non-judgmental  
 
-**Avoid**
-- Jargon, long paragraphs, or moralizing.
-- Making clinical guarantees or diagnoses.
+## Principles
+1. Validate feelings  
+2. Clarify the next step  
+3. Guide with one small action at a time  
+4. Check understanding before moving on  
 
-**Micro-skills used in scripts**
-- Reflection: “It sounds like…”
-- Normalization: “Many people feel…”
-- Permission: “Is it okay if we…”
-- Teach-back: “Does that summary fit?”
+## Do
+- Use people-first and inclusive language  
+- Ask one clear question at a time  
+- Provide choices and opt-outs  
+
+## Avoid
+- Jargon or long paragraphs  
+- Moralizing or scolding  
+- Making promises about outcomes  
+
+## Helpful micro-skills
+- Reflection: “It sounds like you are feeling…”  
+- Normalization: “Many people feel that way…”  
+- Permission: “Is it okay if we try this together?”  
+- Teach-back: “Does this summary sound right to you?”
