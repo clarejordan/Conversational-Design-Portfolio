@@ -1,15 +1,15 @@
 # Therapist Matching Intake Assistant
 
 ## Overview
-A friendly, stepwise intake that replaces cold forms with a short conversation. Goal: reduce drop-off, capture preferences, and improve initial match quality.
+A step-by-step intake conversation that replaces long forms with a friendly chat. Goal: reduce drop-off, capture preferences, and improve match quality.
 
 ## Problem
-New clients often feel anxious filling forms. Key details get missed, leading to poor matches and reschedules.
+New clients often feel anxious when completing long forms. Important details about their goals or preferences may be missed, which can lead to poor matches and reschedules.
 
 ## Flow Diagram
 ```mermaid
 flowchart TD
-  A[Hello + consent] --> B[Reason for seeking therapy]
+  A[Hello and consent] --> B[Reason for seeking therapy]
   B --> C[Goals]
   C --> D[Preferences]
   D --> E[Modality]
@@ -20,7 +20,7 @@ flowchart TD
 ```
 
 ## Example Dialog
-**Bot:** Hi, I’ll ask a few short questions to help match you with a therapist. You can skip anything. Ready?  
+**Bot:** Hi, I will ask a few short questions to help match you with a therapist. You can skip anything. Ready?  
 **User:** Yes.  
 **Bot:** What brings you to therapy?  
 **User:** Anxiety at work.  
@@ -34,6 +34,6 @@ flowchart TD
 **User:** Evenings.  
 **Bot:** Will you use insurance or self-pay?  
 **User:** Insurance.  
-**Bot:** Great — here’s your summary. Looks good?  
+**Bot:** Great, here is your summary. Looks good?  
 **User:** Yes.  
 **Bot:** Perfect. Let’s find your therapist match.
