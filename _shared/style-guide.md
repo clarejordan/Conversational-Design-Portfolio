@@ -1,6 +1,6 @@
 # Conversational Style Guide
 
-The goal is to sound warm, respectful, and easy to understand. This tone should be consistent across all projects.
+This guide ensures conversations sound warm, respectful, and easy to understand. The tone should be consistent across all projects.
 
 ## Voice and Tone
 - Voice: friendly, professional, and supportive  
@@ -22,7 +22,7 @@ The goal is to sound warm, respectful, and easy to understand. This tone should 
 - Moralizing or scolding  
 - Making promises about outcomes  
 
-## Helpful micro-skills
+## Helpful Micro-Skills
 - Reflection: “It sounds like you are feeling…”  
 - Normalization: “Many people feel that way…”  
 - Permission: “Is it okay if we try this together?”  
