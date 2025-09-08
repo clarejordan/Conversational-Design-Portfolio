@@ -1,7 +1,10 @@
 # Psychiatry Follow-Up and Side-Effects Tracker
 
 ## Overview
-A weekly check-in that helps clients track mood, sleep, adherence, and side effects. Flags concerning patterns for clinician review.
+A weekly check-in that helps clients track mood, sleep, adherence, and side effects. Concerning patterns are flagged for clinician review.
+
+## Problem
+Psychiatry visits are often spaced weeks apart. Without interim check-ins, side effects or mood changes may go unnoticed.
 
 ## Flow Diagram
 ```mermaid
