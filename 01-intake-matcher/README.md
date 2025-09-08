@@ -15,15 +15,13 @@ New clients often feel anxious and overwhelmed by long forms. Important nuances 
 - Offer “skip” or “prefer not to say” for sensitive items.
 - Never give clinical advice; this is intake only.
 
-## Flow Diagram (Mermaid)
-```mermaid
 flowchart TD
   A[Hello + consent + what to expect] --> B[Reason for seeking therapy]
   B --> C[Goals (pick or type)]
-  C --> D[Preferences: therapist style, identity factors (optional)]
-  D --> E[Modality: virtual, in-person, hybrid]
+  C --> D[Preferences: therapist style; optional identity]
+  D --> E[Modality: virtual / in-person / hybrid]
   E --> F[Scheduling windows + time zone]
-  F --> G[Insurance / self-pay summary]
-  G --> H[Confirm + edit answers]
+  F --> G[Insurance or self-pay]
+  G --> H[Review + edit answers]
   H --> I[Match summary + next steps]
-  I --> J[Optional: quick tips for first session]
+  I --> J[Optional: first-session tips]
