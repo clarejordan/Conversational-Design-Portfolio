@@ -7,7 +7,7 @@ A curated set of 5 projects that demonstrate clear problem-solving through conve
 4. **Teen Support Buddy** — youth-friendly tone, ACT/mindfulness micro-skills  
 5. **Psychiatry Follow-Up & Side-Effects Tracker** — adherence, monitoring, and flags for clinician review
 
-> Each project includes: problem statement, design rationale, flow diagram (Mermaid), example dialog, safety guardrails,  and success metrics.”
+> Each project includes: problem statement, design rationale, flow diagram (Mermaid), example dialog, safety guardrails,  and success metrics.
 
 ## How to browse
 Open any folder below:
