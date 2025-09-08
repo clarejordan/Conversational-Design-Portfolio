@@ -8,21 +8,14 @@ Clients often forget or avoid CBT homework. A guided chat lowers the effort and 
 
 ## Flow Diagram
 ```mermaid
-sequenceDiagram
-  participant U as User
-  participant B as Assistant
-  B->>U: Want a quick 5-minute CBT check-in?
-  U->>B: Yes
-  B->>U: What happened?
-  U->>B: My manager criticized my work.
-  B->>U: What thought popped up?
-  U->>B: I'm terrible at my job.
-  B->>U: What evidence supports that?
-  U->>B: I missed a deadline.
-  B->>U: What evidence does not support it?
-  U->>B: My last review was strong.
-  B->>U: Balanced thought suggestion...
-  U->>B: That feels closer to the truth.
+flowchart TD
+  A[Start check-in] --> B[Ask about situation]
+  B --> C[Ask about automatic thought]
+  C --> D[Ask for evidence supporting thought]
+  D --> E[Ask for evidence against thought]
+  E --> F[Suggest balanced reframe]
+  F --> G[Ask for one small action]
+  G --> H[Save response and end]
 ```
 
 ## Example Dialog
