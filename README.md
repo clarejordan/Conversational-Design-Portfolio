@@ -1,4 +1,4 @@
-# Rula-Focused Conversational Design Portfolio — Clare Jordan, LPCC
+# Conversational Design Portfolio — Clare Jordan, LPCC
 
 A curated set of 5 projects that demonstrate clear problem-solving through conversational interfaces in mental health:
 1. **Therapist Matching Intake Assistant** — empathetic, low-friction intake that improves match quality  
@@ -7,7 +7,7 @@ A curated set of 5 projects that demonstrate clear problem-solving through conve
 4. **Teen Support Buddy** — youth-friendly tone, ACT/mindfulness micro-skills  
 5. **Psychiatry Follow-Up & Side-Effects Tracker** — adherence, monitoring, and flags for clinician review
 
-> Each project includes: problem statement, design rationale, flow diagram (Mermaid), example dialog, safety guardrails, success metrics, and “alignment with Rula.”
+> Each project includes: problem statement, design rationale, flow diagram (Mermaid), example dialog, safety guardrails,  and success metrics.”
 
 ## How to browse
 Open any folder below:
