@@ -1,47 +1,23 @@
-# Conversational Design Portfolio – Clare Jordan
+# Rula-Focused Conversational Design Portfolio — Clare Jordan, LPCC
 
-Welcome! I’m Clare, a Licensed Professional Clinical Counselor (LPCC) and clinical leader with 15+ years of experience designing **conversations, narratives, and training dialogues** that bridge clinical expertise with technology.
+A curated set of 5 projects that demonstrate clear problem-solving through conversational interfaces in mental health:
+1. **Therapist Matching Intake Assistant** — empathetic, low-friction intake that improves match quality  
+2. **CBT Self-Help Coach** — guided cognitive restructuring between sessions  
+3. **DBT Distress De-escalation** — safety-first coping flow with escalation guardrails  
+4. **Teen Support Buddy** — youth-friendly tone, ACT/mindfulness micro-skills  
+5. **Psychiatry Follow-Up & Side-Effects Tracker** — adherence, monitoring, and flags for clinician review
 
-This portfolio highlights my work in:
-- **Conversational Design**: Crafting empathetic, evidence-based dialogue flows.  
-- **Clinical Training Narratives**: Creating role-play scripts and pseudo client-therapist conversations for training and quality calibration.  
-- **AI & Automation**: Applying Python and company-approved AI tools to streamline healthcare workflows.  
-- **Writing**: Contributing clinical and wellness content (e.g., Sanvello blog).  
+> Each project includes: problem statement, design rationale, flow diagram (Mermaid), example dialog, safety guardrails, success metrics, and “alignment with Rula.”
 
----
-
-## 🗂 Portfolio Samples
-
-### 1. Training Dialogue for Therapist Role-Play
-[View the script →](./samples/training-dialogue-therapist.md)  
-A pseudo client-therapist conversation designed for role-play, focused on practicing documentation, diagnosis, and treatment planning.
-
----
-
-### 2. Clinical Narrative for Quality Calibration
-[View the script →](./samples/clinical-narrative.md)  
-A structured client case narrative used for clinician training and adherence to quality standards.
+## How to browse
+Open any folder below:
+- [`01-intake-matcher/`](./01-intake-matcher/README.md)
+- [`02-cbt-coach/`](./02-cbt-coach/README.md)
+- [`03-dbt-distress/`](./03-dbt-distress/README.md)
+- [`04-teen-support/`](./04-teen-support/README.md)
+- [`05-psychiatry-followup/`](./05-psychiatry-followup/README.md)
 
 ---
 
-### 3. Conversational Flow Mock-Up for Digital Therapy
-[View the flow →](./samples/conversational-flow.md)  
-A sample of how I’d structure an empathetic, evidence-based chatbot conversation for mental health screening and engagement.
-
----
-
-## ⚙️ Technical Skills
-- **Python**: Completed CS50P (Harvard edX) + Google Crash Course in Python.  
-- **Automation**: Current role includes leading adoption of AI tools for clinical parity analysis.  
-
----
-
-## ✍️ Writing Samples
-- [Sanvello Blog Contribution – Example Post](#) (must have UHC as insruance to login and view)  
-- Published essay: *The Need for Cyberbullying Education* (American Counseling Association).  
-
----
-
-## 📬 Contact
-📧 clare.l.jordan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/clareljordan)  
+### Reuse snippets
+See [`_shared/safety-guardrails.md`](./_shared/safety-guardrails.md) for standardized safety patterns and [`_shared/style-guide.md`](./_shared/style-guide.md) for tone.
