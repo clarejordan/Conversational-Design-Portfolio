@@ -4,7 +4,7 @@
 A short between-session exercise that guides a CBT thought record. Identify the situation, automatic thought, evidence for and against, balanced reframe, and a small action.
 
 ## Problem
-Clients often forget or avoid CBT homework. A guided chat lowers the effort and helps them practice skills.
+Clients often forget or avoid CBT homework. A guided chat lowers the effort and supports skill practice.
 
 ## Flow Diagram
 ```mermaid
